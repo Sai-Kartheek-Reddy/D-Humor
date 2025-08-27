@@ -13,3 +13,31 @@ Dark humor in online memes poses unique challenges due to its reliance on implic
 - **Novel Dataset:** Proposed a new dataset on Dark Humor, collected from Reddit.  
 - **Role-Reversal Self-Loop Refinement:** Introduced a prompting technique that makes LLMs think like the author of the post, improving LLM alignment for better explanation generation.  
 - **Tri-stream Cross-Reasoning Network (TCRNet):** Developed a reasoning-augmented framework for enhanced understanding and processing of dark humor content.
+
+## Subtasks in D-HUMOR Dataset
+
+The D-HUMOR dataset includes three subtasks for evaluating dark humor understanding:
+
+1. **Dark Humor Identification (Yes/No):** Binary classification of whether a post contains dark humor.  
+2. **Target Identification:** 6-class classification of the target being addressed in the post:
+   - Gender/Sex-Related Topics  
+   - Mental Health  
+   - Disability  
+   - Race/Ethnicity  
+   - Violence/Death  
+   - Other (posts not falling under the above classes)  
+3. **Intensity Classification:** Humor intensity levels: Mild (1), Moderate (2), Severe (3)  
+
+## Overall Architecture of the Proposed Work
+
+### Role-Reversal Self-Loop Prompting
+We proposed a novel **Role-Reversal Self-Loop Prompting** technique for explanation generation via LLM alignment. The method uses an iterative self-loop where the LLM is prompted to think as the author of the post, enabling better understanding and alignment for generating explanations.  
+
+![Role-Reversal Self-Loop](Images/Role-Reversal%20Self-Loop.png)
+
+### Tri-stream Cross-Reasoning Network (TCRNet)
+We also proposed a **reasoning-augmented framework**, **Tri-stream Cross-Reasoning Network (TCRNet)**, which fuses three streams: text, image, and reasoning via pairwise attention mechanisms. This produces a unified representation for classification.  
+
+![TCRNet Architecture](Images/TCRNet%20Architecture.jpg)
+
+Experimental results demonstrate that our approach outperforms strong baselines across three tasks.
