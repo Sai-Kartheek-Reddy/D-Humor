@@ -41,3 +41,13 @@ We also proposed a **reasoning-augmented framework**, **Tri-stream Cross-Reasoni
 ![TCRNet Architecture](Images/TCRNet%20Architecture.jpg)
 
 Experimental results demonstrate that our approach outperforms strong baselines across three tasks.
+
+## Dataset Access
+
+Due to the sensitive nature of the content, access to the D-HUMOR dataset is **restricted to academic and research purposes only**.  
+
+Please ensure compliance with the following terms before requesting access:  
+
+- Use the dataset solely for non-commercial, research, or educational purposes.  
+- Do not redistribute the dataset publicly.  
+
