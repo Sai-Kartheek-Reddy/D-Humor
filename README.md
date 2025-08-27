@@ -1,7 +1,6 @@
 # D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning
 
 **Accepted at IEEE ICDM 2025**  
-*Status: Yet to be published*
 
 ---
 
