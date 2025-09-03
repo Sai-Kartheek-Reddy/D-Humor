@@ -70,8 +70,9 @@ The dataset is derived from **publicly available memes on Reddit**. By requestin
 
 Access is granted only after completing the **D-Humor Dataset Access Agreement Form**. This ensures accountability and proper usage:  
 
-📄 **Agreement Form (PDF):** [Download D-Humor Dataset Access Agreement]([Code/D-Humor_Dataset_Access_Agreement_Form.pdf](https://drive.google.com/file/d/1zI5zNxe5mzp8RYW80xetevwuVeXcnXi6/view?usp=sharing))  
-📂 **Request Form:** 🔗 [Fill Dataset Access Request Form]([https://forms.gle/your-google-form-link](https://docs.google.com/forms/d/1UTItZLZXqZ7h_dT73wBk8YDkMRtKItUBYV8zznsiRKk/viewform?edit_requested=true))  
+📄 **Agreement Form (PDF):** [Download D-Humor Dataset Access Agreement](https://drive.google.com/file/d/1zI5zNxe5mzp8RYW80xetevwuVeXcnXi6/view?usp=sharing).
+
+📂 **Request Form:** [Fill Dataset Access Request Form](https://forms.gle/t9ynkpq4XGd8Kp93A)
 
 Once approved, you will receive the dataset along with any instructions for use.  
 
