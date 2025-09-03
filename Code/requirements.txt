@@ -1,0 +1,9 @@
+# Core dependencies
+torch
+torchvision
+transformers
+tqdm
+pandas
+scikit-learn
+Pillow
+openpyxl
