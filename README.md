@@ -34,12 +34,22 @@ We proposed a novel **Role-Reversal Self-Loop Prompting** technique for explanat
 
 ![Role-Reversal Self-Loop](Images/Role-Reversal%20Self-Loop.png)
 
+📂 **Prompt Template:**  🔗 [Role-Reversal Self-Loop Prompt Template](https://github.com/Sai-Kartheek-Reddy/D-Humor-Dark-Humor-Understanding-via-Multimodal-Open-ended-Reasoning/tree/main/Code#role-reversal-self-loop-prompting-rr-slp)
+
 ### Tri-stream Cross-Reasoning Network (TCRNet)
 We also proposed a **reasoning-augmented framework**, **Tri-stream Cross-Reasoning Network (TCRNet)**, which fuses three streams: text, image, and reasoning via pairwise attention mechanisms. This produces a unified representation for classification.  
 
 ![TCRNet Architecture](Images/TCRNet%20Architecture.jpg)
 
+We designed **TCRNet (Tri-Stream Cross-Reasoning Network)**, a multimodal architecture for **dark humor understanding** that integrates:  
+- **Meme text** (BERT encoder)  
+- **Image features** (ViT encoder)  
+- **Explanations** (SentenceTransformer encoder)  
+and fuses them via **cross-attention** for classification across multiple tasks.
+
 Experimental results demonstrate that our approach outperforms strong baselines across three tasks.
+
+📂 **Implementation & Details:** 🔗 [TCRNet – Multimodal Meme Classification](https://github.com/Sai-Kartheek-Reddy/D-Humor-Dark-Humor-Understanding-via-Multimodal-Open-ended-Reasoning/tree/main/Code#tcrnet---multimodal-meme-classification)
 
 ## Dataset Access
 
