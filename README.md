@@ -51,12 +51,30 @@ Experimental results demonstrate that our approach outperforms strong baselines 
 
 📂 **Implementation & Details:** 🔗 [TCRNet – Multimodal Meme Classification](https://github.com/Sai-Kartheek-Reddy/D-Humor-Dark-Humor-Understanding-via-Multimodal-Open-ended-Reasoning/tree/main/Code#tcrnet---multimodal-meme-classification)
 
+---
+
 ## Dataset Access
 
-Due to the sensitive nature of the content, access to the D-HUMOR dataset is **restricted to academic and research purposes only**.  
+Due to the **sensitive nature of dark humor content**, the D-Humor Dataset is shared **only under strict conditions**:
 
-Please ensure compliance with the following terms before requesting access:  
+1. Access is **strictly for academic and research purposes** (**non-commercial use only**).  
+2. The dataset **must not be publicly redistributed** or uploaded to third-party platforms.  
+3. Users must ensure **ethical handling and confidentiality** of the data.  
 
-- Use the dataset solely for non-commercial, research, or educational purposes.  
-- Do not redistribute the dataset publicly.  
+The dataset is derived from **publicly available memes on Reddit**. By requesting or using this dataset, you agree to:  
+- Follow **Reddit’s content and API policies**.  
+- Respect ethical research guidelines, including **non-commercial use** and **no redistribution**.  
+- Use the dataset responsibly, understanding its **sensitive and potentially offensive nature**.  
+
+### Dataset Access Request
+
+Access is granted only after completing the **D-Humor Dataset Access Agreement Form**. This ensures accountability and proper usage:  
+
+📄 **Agreement Form (PDF):** [Download D-Humor Dataset Access Agreement]([Code/D-Humor_Dataset_Access_Agreement_Form.pdf](https://drive.google.com/file/d/1zI5zNxe5mzp8RYW80xetevwuVeXcnXi6/view?usp=sharing))  
+📂 **Request Form:** 🔗 [Fill Dataset Access Request Form]([https://forms.gle/your-google-form-link](https://docs.google.com/forms/d/1UTItZLZXqZ7h_dT73wBk8YDkMRtKItUBYV8zznsiRKk/viewform?edit_requested=true))  
+
+Once approved, you will receive the dataset along with any instructions for use.  
+
+
+ 
 
